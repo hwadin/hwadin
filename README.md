@@ -68,7 +68,7 @@ Prezi [자세히 보기](https://prezi.com/dashboard/next/#/all)  <br/>
 Spring MVC 패턴 및 AJAX(비동기) 통신을 주로 하여  <br/>
 웹 환경에서 수정/보완하여 완성해보았습니다. <br/>
 
-Github [바로가기](https://github.com/hwadin/spring_project_moca)  <br/>
+Github [바로 가기](https://github.com/hwadin/spring_project_moca)  <br/>
 Slack [자세히 보기 ](https://app.slack.com/client/T03SCNESCMB/C03S93BP78W)  <br/>
 
  <br/>
