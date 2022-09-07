@@ -1,5 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=slice&color=FFEBCD&height=250&section=header&text=Hwajin%20Song&fontSize=80&fontColor=B0C4DE)
 
+<hr/>
+
 # 안녕하세요 👋
 
 저는 프론트 / 백엔드 신입 개발자입니다. <br/>
@@ -7,6 +9,7 @@
  [한국기술직업전문학교](http://koreate.net/)에서	<br/>
  '빅데이터 자바(JAVA)프로그래밍 전문가 과정' 을 수료하며 <br/>
  배웠던 기술과 프로젝트를 소개하겠습니다 :)
+ <br/>
 
  ✨ TECH STACK✨ 
  
@@ -20,7 +23,9 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
 
-
+ <br/>
+ <br/>
+ 
 #  ⚡ 1차 프로젝트                 
 (기간 : 2022. 06.03 - 2022.06.15 )
 
@@ -42,7 +47,10 @@ Prezi [자세히 보기](https://prezi.com/dashboard/next/#/all)
 - **JavaFX 환경**
 	> 
 
-
+ <br/>
+ <br/>
+ <br/>
+ 
 #  ⚡ 최종 프로젝트 
 (기간 : 2022. 08.17 - 2022.09.05 )
 
