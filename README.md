@@ -31,7 +31,7 @@
 <br/>
 <br/>
 
-🌱 ***Used Tools *** 🌱
+🌱 ***Used Tools*** 🌱
 
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white) 
