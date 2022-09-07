@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=FFEBCD&height=250&section=header&text=Hwajin%20Song&fontSize=80&fontColor=B0C4DE)
+![header](https://capsule-render.vercel.app/api?type=slice&color=FFEBCD&height=250&section=header&text=Hwajin%20Song&fontSize=80&fontColor=grey)
 
 <hr/>
 
