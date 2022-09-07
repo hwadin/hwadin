@@ -33,7 +33,7 @@
 
 🌱 ***Used Tools*** 🌱
 
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23E34F26.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white) 
 ![Notion](https://img.shields.io/badge/Notion-%236DB33F.svg?style=for-the-badge&logo=notion&logoColor=white)
 ![Prezi](https://img.shields.io/badge/Prezi-%23ED8B00.svg?style=for-the-badge&logo=Prezi&logoColor=white)
