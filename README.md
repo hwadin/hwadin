@@ -49,7 +49,6 @@ __2022.03.21 ~ 2022.09.05__ 기간 동안	<br/>
 JavaFX로 진행하였던 1차 프로젝트입니다.
 
 Github [바로 가기](https://github.com/hwadin/java_project_oohwaha)  <br/>
-oven [ 자세히 보기](https://ovenapp.io/project/3HOOI9CG0TYps8sL0nSJepY2jpwGxDbP#rExiu)  <br/>
 Prezi [자세히 보기](https://prezi.com/view/YidCaYGbtDgM6jpLvrJ4/)  <br/>
 
  <br/>
