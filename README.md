@@ -14,12 +14,7 @@ __2022.03.21 ~ 2022.09.05__ 기간 동안	<br/>
  배웠던 기술과 프로젝트를 소개하겠습니다 :)
  <br/>
  <br/>
- 
- 
- 개인 Notion [바로 가기](https://truth-scraper-ec1.notion.site/programming-study-aea40d9eecfd4ee096c9fb448742fa3e)
- 
- <br/>
- <br/>
+
  
  ✨ ***TECH STACK*** ✨ 
  
@@ -47,7 +42,10 @@ __2022.03.21 ~ 2022.09.05__ 기간 동안	<br/>
  <br/>
  <br/>
  
+  개인 Notion [바로 가기](https://truth-scraper-ec1.notion.site/programming-study-aea40d9eecfd4ee096c9fb448742fa3e)
 
+ <br/>
+ <br/>
  
 #  ⚡ 1차 프로젝트                 
 (기간 : 2022. 06.03 - 2022.06.15 )
