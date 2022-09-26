@@ -40,6 +40,7 @@ __2022.03.21 ~ 2022.09.05__ 기간 동안	<br/>
 
  <br/>
  <br/>
+ Notion [바로 가기](https://truth-scraper-ec1.notion.site/programming-study-aea40d9eecfd4ee096c9fb448742fa3e)
  
 #  ⚡ 1차 프로젝트                 
 (기간 : 2022. 06.03 - 2022.06.15 )
