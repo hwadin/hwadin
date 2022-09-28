@@ -41,9 +41,6 @@ __2022.03.21 ~ 2022.09.05__ 기간 동안	<br/>
 
  <br/>
  <br/>
- 
-  개인 Notion [바로 가기](https://truth-scraper-ec1.notion.site/programming-study-aea40d9eecfd4ee096c9fb448742fa3e)
-
  <br/>
  <br/>
  
