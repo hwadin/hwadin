@@ -42,10 +42,14 @@ __2022.03.21 ~ 2022.09.05__ 기간 동안	<br/>
  <br/>
  
 #  ⚡ 1차 프로젝트                 
-기간 : 2022. 06.03 - 2022.06.15  (12일)
+기간 : 2022. 06.03 - 2022.06.15  (13일)
 
 
-JavaFX로 진행하였던 1차 프로젝트입니다.
+JavaFX로 진행하였던 1차 프로젝트입니다.  <br/>
+<br/>
+사용자가 등록한 스케줄 중 비어있는 시간 (ex: 공강) 에 대해  <br/>
+해당 날짜의 할인 일정이 있는 카페에 유저들간 모임을 만들어  <br/>
+카페 예약을 하는 시스템을 목표로 구현해 보았습니다.  <br/>
 
 Github [바로 가기](https://github.com/hwadin/java_project_oohwaha)  <br/>
 Prezi [자세히 보기](https://prezi.com/view/YidCaYGbtDgM6jpLvrJ4/)  <br/>
@@ -55,12 +59,14 @@ Prezi [자세히 보기](https://prezi.com/view/YidCaYGbtDgM6jpLvrJ4/)  <br/>
  
  
 #  ⚡ 최종 프로젝트 
-기간 : 2022. 08.15 - 2022.09.05 (21일)
+기간 : 2022. 08.17 - 2022.09.05 (20일)
 
+<br/>
 
-기존 자바FX로 진행했던 1차 프로젝트를  <br/>
-Spring MVC 패턴 및 AJAX(비동기) 통신을 주로 하여  <br/>
+기존 자바FX로 진행했던 1차 프로젝트에서  <br/>
+**Spring MVC 패턴** 및 **AJAX(비동기)** 통신을 주로 하여  <br/>
 웹 환경에서 수정/보완하여 완성해보았습니다. <br/>
+<br/>
 
 Github [바로 가기](https://github.com/hwadin/spring_project_moca)  <br/>
 Slack [자세히 보기 ](https://app.slack.com/client/T03SCNESCMB/C03S93BP78W)  <br/>
