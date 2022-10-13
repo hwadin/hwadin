@@ -47,7 +47,6 @@ __2022.03.21 ~ 2022.09.05__ 기간 동안	<br/>
 (기간 : 2022. 06.03 - 2022.06.15 )
 
 
-
 JavaFX로 진행하였던 1차 프로젝트입니다.
 
 Github [바로 가기](https://github.com/hwadin/java_project_oohwaha)  <br/>
@@ -56,18 +55,6 @@ Prezi [자세히 보기](https://prezi.com/view/YidCaYGbtDgM6jpLvrJ4/)  <br/>
  <br/>
  <br/>
  
-## 개발 환경 및 라이브러리 
-
-- **JAVA 환경**
-	> 버전 1.8(JAVA 8)
-- **MYSQL**
-	> MySQL Workbench 8.0
-- **JavaFX 환경**
-	> 
-
- <br/>
- <br/>
- <br/>
  
 #  ⚡ 최종 프로젝트 
 (기간 : 2022. 08.17 - 2022.09.05 )
@@ -84,17 +71,3 @@ Prezi [자세히 보기](https://prezi.com/view/tRGqEhVyhtKWkLSLz04l/)  <br/>
  <br/>
  <br/> 
  
-## 개발 환경 및 라이브러리 
-
-- **통합 개발 환경(IDE)**
-	> STS 3 버전 (Spring Legacy Project)
-- **웹 애플리케이션 서버(WAS)**
-	> Apache Tomcat 9.x
-- **데이터베이스(RDBMS)**
-	> MySQL 8.x
-- **JAVA 환경**
-	> 버전 1.8(JAVA 8)
-- **Spring  라이브러리**
-	> 
-				
-
